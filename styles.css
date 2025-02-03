@@ -57,6 +57,10 @@
         margin: 25px;
         line-height: 1.6;
     }
+   main img{
+      display:block;
+      margin: auto;
+   }
 
     /* Tamanho padrão para telas grandes */
     .img-peq {
