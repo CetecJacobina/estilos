@@ -1,4 +1,4 @@
-@charset ="UTF-8;
+@charset "UTF-8";
    main {
         font-family: open sans;
         line-height: 1.6;
@@ -17,8 +17,6 @@
         font-weight: bold;
         color: black;
         /*text-shadow: 0.03em 0.03em 0.03em blue;*/
-
-        /* Controla a largura do background */
         display: inline-block;
 
         max-width: calc(200% + 50px);
