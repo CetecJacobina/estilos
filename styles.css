@@ -35,7 +35,7 @@
         width: 100%;
         /* Ajuste a largura para 100% */
         box-sizing: border-box;
-        background-color: #2294ff;
+        background-color: #0084ff;
         border-radius: 15px;
         color: #ffffff;
         /* Cor do texto branca */
@@ -59,7 +59,6 @@
       display:block;
       margin: auto;
       border-radius: 10px;
-      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.486);
    }
 
     /* Tamanho padrão para telas grandes */
