@@ -67,17 +67,7 @@
       margin-top: 20px;
    }
 
-   main img:hover{
-      
 
-    /* Tamanho padrão para telas grandes */
-.img-stick {
-        max-width: 350px;
-        width: 50%;
-         margin: 10px;
-         border-radius: 10px;
-
-    }
     .img-peq {
         max-width: 350px;
         width: 50%;
