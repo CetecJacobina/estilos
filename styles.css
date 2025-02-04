@@ -102,15 +102,15 @@
 
 
     }
-      main .img-stick:hover{
+   .img-stick:hover{
         width: 600px;
         max-width: 90vw;
     }
-    main .img-peq:hover{
+    .img-peq:hover{
         width: 600px;
         max-width: 90vw;
     }
-    main .img-med:hover{
+    .img-med:hover{
         width: 700px;
         max-width: 95vw;
     }
