@@ -65,16 +65,21 @@
    }
 
     /* Tamanho padrão para telas grandes */
+.img-stick {
+        max-width: 350px;
+        width: 50%;
+         margin-left: 10px;
+    }
     .img-peq {
         max-width: 350px;
         width: 50%;
-       margin-left: 10px;
+        margin: auto;
     }
 
     .img-med {
         max-width: 600px;
         width: 90%;
-      margin: auto;
+        margin: auto;
 
     }
 
