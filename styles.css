@@ -74,12 +74,14 @@
     .img-med {
         max-width: 600px;
         width: 90%;
+      margin: auto;
 
     }
 
     .img-gra {
         max-width: 950px;
         width: 90%;
+      margin: auto;
 
     }
 
