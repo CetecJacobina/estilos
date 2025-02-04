@@ -66,6 +66,9 @@
       margin-top: 20px;
    }
 
+   main img:hover{
+      
+
     /* Tamanho padrão para telas grandes */
 .img-stick {
         max-width: 350px;
@@ -98,6 +101,18 @@
              border-radius: 10px;
 
 
+    }
+      main .img-stick:hover{
+        width: 600px;
+        max-width: 90vw;
+    }
+    main .img-peq:hover{
+        width: 600px;
+        max-width: 90vw;
+    }
+    main .img-med:hover{
+        width: 700px;
+        max-width: 95vw;
     }
 
 
