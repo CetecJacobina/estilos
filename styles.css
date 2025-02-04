@@ -1,17 +1,25 @@
 @charset "UTF-8";
-   main {
+  main {
+        max-width: 1000px;
+        margin: auto;
+        box-shadow: 1px 1px 5px black;
+        padding: 10px;
+    }
+
+
+    main {
         font-family: open sans;
         line-height: 1.6;
         text-align: justify;
     }
 
-  main  blockquote {
+    main blockquote {
         margin: 10px;
         text-indent: 40px;
 
     }
 
-   main h4 {
+    main h4 {
         margin-left: 25px;
         font-size: 24px;
         font-weight: bold;
@@ -28,15 +36,14 @@
 
     }
 
-   main h3 {
+    main h3 {
         text-align: center;
         /* Centralizar o texto dentro */
         padding: 15px;
         width: 100%;
         /* Ajuste a largura para 100% */
         box-sizing: border-box;
-        background-color: #003683;
-      
+        background-color: #71aee7;
         border-radius: 15px;
         color: #ffffff;
         /* Cor do texto branca */
@@ -44,35 +51,45 @@
         font-weight: bold;
         text-shadow: 0.1em 0.1em 0.2em black;
         border-radius: 10px;
-            box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+        box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
 
         /* Arredonda os cantos */
     }
 
-   main p {
+    main p {
         text-indent: 25px;
-         text-align: justify;
+        text-align: justify;
     }
 
-   main ul {
+    main ul {
         margin: 25px;
         line-height: 1.6;
     }
-   main img{
-      display:block;
-      margin: auto;
-      border-radius: 10px;
-      box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
-      margin-bottom: 20px;
-      margin-top: 20px;
-   }
 
+    main img {
+        display: block;
+        margin: auto;
+        border-radius: 10px;
+        box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+
+    /* Tamanho padrão para telas grandes */
+    .img-stick {
+        max-width: 350px;
+        width: 50%;
+        margin: 10px;
+        border-radius: 10px;
+
+    }
 
     .img-peq {
         max-width: 350px;
         width: 50%;
         margin: auto;
-             border-radius: 10px;
+        border-radius: 10px;
 
     }
 
@@ -80,7 +97,7 @@
         max-width: 600px;
         width: 90%;
         margin: auto;
-             border-radius: 10px;
+        border-radius: 10px;
 
 
     }
@@ -88,12 +105,12 @@
     .img-gra {
         max-width: 950px;
         width: 90%;
-      margin: auto;
-             border-radius: 10px;
+        margin: auto;
+        border-radius: 10px;
 
 
     }
-   
+
 
 
     .video-container {
