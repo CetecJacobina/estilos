@@ -67,7 +67,7 @@
     /* Tamanho padrão para telas grandes */
     .img-peq {
         max-width: 350px;
-        width: 90%;
+        width: 50%;
        margin-left: 10px;
     }
 
