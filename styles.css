@@ -71,17 +71,23 @@
         max-width: 350px;
         width: 50%;
          margin: 10px;
+         border-radius: 10px;
+
     }
     .img-peq {
         max-width: 350px;
         width: 50%;
         margin: auto;
+             border-radius: 10px;
+
     }
 
     .img-med {
         max-width: 600px;
         width: 90%;
         margin: auto;
+             border-radius: 10px;
+
 
     }
 
@@ -89,6 +95,8 @@
         max-width: 950px;
         width: 90%;
       margin: auto;
+             border-radius: 10px;
+
 
     }
 
