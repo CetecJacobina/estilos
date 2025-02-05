@@ -3,11 +3,7 @@
         max-width: 1000px;
         margin: auto;
         box-shadow: 1px 1px 5px black;
-        padding: 10px;
-    }
-
-
-    main {
+        padding: 2%;
         font-family: open sans;
         line-height: 1.6;
         text-align: justify;
@@ -20,7 +16,7 @@
     }
 
     main h4 {
-        margin-left: 25px;
+        margin-left: 35px;
         font-size: 24px;
         font-weight: bold;
         color: black;
@@ -40,6 +36,7 @@
         text-align: center;
         /* Centralizar o texto dentro */
         padding: 15px;
+        margin-bottom: 30px;
         width: 100%;
         /* Ajuste a largura para 100% */
         box-sizing: border-box;
