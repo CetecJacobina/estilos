@@ -17,7 +17,7 @@ main blockquote {
 }
 
 main h4 {
-    margin-left: 35px;
+    margin-left: 5%;
     font-size: 24px;
     font-weight: bold;
     color: black;
@@ -60,7 +60,7 @@ main p {
 }
 
 main ul {
-    margin: 25px;
+    margin: 5%;
     line-height: 1.6;
 }
 
