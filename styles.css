@@ -79,14 +79,14 @@ main img {
     width: 50%;
     margin: 10px;
     border-radius: 10px;
-    transistion: 1s;
+    transition: 1s;
 
 }
 
 .img-stick:hover {
     max-width: 450px;
     width: 75%;
-    transistion: 1s;
+    transition: 1s;
 }
 
 .img-peq {
