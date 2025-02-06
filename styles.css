@@ -11,8 +11,8 @@ main {
 }
 
 main blockquote {
-    margin: 10px;
-    text-indent: 40px;
+    margin: 5%;
+    text-indent: 8%;
 
 }
 
@@ -79,12 +79,14 @@ main img {
     width: 50%;
     margin: 10px;
     border-radius: 10px;
+    transistion: 1s;
 
 }
 
 .img-stick:hover {
     max-width: 450px;
     width: 75%;
+    transistion: 1s;
 }
 
 .img-peq {
@@ -97,7 +99,7 @@ main img {
 
 .img-med {
     max-width: 600px;
-    width: 90%;
+    width: 95%;
     margin: auto;
     border-radius: 10px;
 
@@ -106,7 +108,7 @@ main img {
 
 .img-gra {
     max-width: 950px;
-    width: 90%;
+    width: 95%;
     margin: auto;
     border-radius: 10px;
 
