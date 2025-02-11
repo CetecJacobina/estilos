@@ -64,11 +64,19 @@ main ul {
     margin:0 0 0 5%;
 }
 
-
-
 main li{
 margin-bottom:10px;
 }
+
+.tick{
+    list-style: none;
+}
+
+.tick li::before{
+
+    content: "✔    " ;
+}
+
 
 main img {
     display: block;
