@@ -60,8 +60,14 @@ main p {
 }
 
 main ul {
-    margin: 5%;
     line-height: 1.6;
+    margin:0 0 0 5%;
+}
+
+
+
+main li{
+margin-bottom:20px;
 }
 
 main img {
