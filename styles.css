@@ -77,6 +77,20 @@ margin-bottom:10px;
     content: "✓    " ;
 }
 
+.listcol {
+    display:block;
+    margin: auto;
+    width:95%;
+    max-width: 600px;  
+    border: 1px solid rgba(0, 0, 0, 0.305);
+    border-radius:10px;
+    columns:2;
+}
+
+.listcol li {
+   margin-right: 8%;
+}
+
 
 main img {
     display: block;
