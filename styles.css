@@ -41,7 +41,7 @@ main h3 {
     width: 100%;
     /* Ajuste a largura para 100% */
     box-sizing: border-box;
-    background-color: #2c41ff;
+    background-color: #0000ff;
     border-radius: 15px;
     color: #ffffff;
     /* Cor do texto branca */
@@ -69,6 +69,11 @@ main p {
     text-indent: 25px;
     text-align: justify;
 }
+
+/*
+##################################################
+##################################################
+*/
 
 main ul {
     line-height: 1.6;
@@ -102,6 +107,24 @@ margin-bottom:10px;
    margin-right: 8%;
 }
 
+.list-abc {
+        list-style: none;
+        counter-reset: letras;
+    }
+
+    .list-abc li {
+        counter-increment: letras;
+    }
+
+    .list-abc li::before {
+        content: counter(letras, lower-alpha) ") ";
+        font-weight: bold;
+    }
+
+/*
+##################################################
+##################################################
+*/
 
 main img {
     display: block;
@@ -154,7 +177,10 @@ main img {
 
 }
 
-
+/*
+##################################################
+##################################################
+*/
 
 .video-container {
     position: relative;
@@ -179,6 +205,11 @@ main img {
     width: 100%;
     height: 100%;
 }
+
+/*
+##################################################
+##################################################
+*/
 
 table{
 width:90%;
