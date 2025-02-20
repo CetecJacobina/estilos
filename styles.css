@@ -15,6 +15,26 @@ main blockquote {
     text-indent: 8%;
 
 }
+main h3 {
+    text-align: center;
+    /* Centralizar o texto dentro */
+    padding: 15px;
+    margin-bottom: 30px;
+    width: 100%;
+    /* Ajuste a largura para 100% */
+    box-sizing: border-box;
+    background-color: #213fe7;
+    border-radius: 15px;
+    color: #ffffff;
+    /* Cor do texto branca */
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    border-radius: 10px;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+
+    /* Arredonda os cantos */
+}
 
 main h4 {
     margin-left: 5%;
@@ -33,26 +53,6 @@ main h4 {
 
 }
 
-main h3 {
-    text-align: center;
-    /* Centralizar o texto dentro */
-    padding: 15px;
-    margin-bottom: 30px;
-    width: 100%;
-    /* Ajuste a largura para 100% */
-    box-sizing: border-box;
-    background-color: #0000ff;
-    border-radius: 15px;
-    color: #ffffff;
-    /* Cor do texto branca */
-    font-size: 24px;
-    font-weight: bold;
-    text-shadow: 0.1em 0.1em 0.2em black;
-    border-radius: 10px;
-    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
-
-    /* Arredonda os cantos */
-}
 
 .min {
             text-align: center; /* Centralizar o texto dentro */
