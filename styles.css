@@ -217,3 +217,17 @@ width:90%;
 td{
 min-width:150px;
 }
+ 
+tr, td, table {
+        text-align: center;
+        border: 1px solid black;
+        border-collapse: collapse;
+}
+th{
+        background-color: lightgray;
+        text-align: center;
+}
+
+    tbody> tr:nth-child(2n-1){
+    background-color: lightgray;
+}
