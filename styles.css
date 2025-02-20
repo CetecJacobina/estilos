@@ -216,6 +216,12 @@ main img {
 table{
 width:90%;
 }
+
+caption {
+color: black;
+text-align: center;
+}
+
 td{
 min-width:150px;
 }
