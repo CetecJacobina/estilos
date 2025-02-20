@@ -54,6 +54,17 @@ main h3 {
     /* Arredonda os cantos */
 }
 
+.min {
+            text-align: center; /* Centralizar o texto dentro */
+            padding: 15px;
+            width: 100%; /* Ajuste a largura para 100% */
+            box-sizing: border-box;
+            background: linear-gradient(to right, #FF8C00, #8B4513); /* Degradê laranja para marrom */
+            margin: 15px 0;
+            border-radius: 15px;
+            color: #ffffff; /* Cor do texto branca */
+        }
+
 main p {
     text-indent: 25px;
     text-align: justify;
