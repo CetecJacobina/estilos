@@ -1,5 +1,18 @@
 @charset "UTF-8";
 
+:root {
+    visibility: hidden;
+    opacity: 0;
+}
+
+/* Quando o CSS carregar, exibe a página */
+main {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+}
+
+
 main {
     max-width: 1000px;
     margin: auto;
