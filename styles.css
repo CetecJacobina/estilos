@@ -21,6 +21,7 @@ main {
     font-family: open sans;
     line-height: 1.6;
     text-align: justify;
+    backgroundcolor: white;
 }
 
 main blockquote {
