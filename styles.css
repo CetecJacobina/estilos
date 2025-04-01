@@ -256,9 +256,21 @@ tr, td, table {
         border: 1px solid black;
         border-collapse: collapse;
 }
-table> .semborda{
+
+
+.semborda > table, tr, td {
+        text-align: center;
         border: none;
+        border-collapse: collapse;
 }
+.semborda {
+    text-align: center;
+    border: none;
+    border-collapse: collapse;
+
+}
+
+
 th{
         background-color: lightgray;
         text-align: center;
