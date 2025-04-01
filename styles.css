@@ -187,15 +187,18 @@ main img {
 .eq {
         max-height: 40px;
         width: auto;
+    max-width:100%;
 }
 
 .eq2 {
         max-height: 80px;
         width: auto;
+    max-width:100%;
 }
 .eq3 {
         max-height: 120px;
         width: auto;
+        max-width:100%;
 }
 
 /*
