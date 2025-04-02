@@ -188,18 +188,20 @@ main img {
         max-height: 40px;
         width: auto;
     max-width:100%;
-    box
+    box-shadow: none;
 }
 
 .eq2 {
         max-height: 60px;
         width: auto;
     max-width:100%;
+    box-shadow: none;
 }
 .eq3 {
         max-height: 80px;
         width: auto;
         max-width:100%;
+    box-shadow: none;
 }
 
 /*
