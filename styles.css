@@ -188,6 +188,7 @@ main img {
         max-height: 40px;
         width: auto;
     max-width:100%;
+    box
 }
 
 .eq2 {
@@ -258,7 +259,7 @@ tr, td, table {
 }
 
 
-.semborda > table, tr, td {
+.semborda > tr, td {
         text-align: center;
         border: none;
         border-collapse: collapse;
