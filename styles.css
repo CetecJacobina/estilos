@@ -263,6 +263,8 @@ tr, td, table {
         text-align: center;
         border: none;
         border-collapse: collapse;
+        padding: 0px 3px;
+
 }
 .semborda {
     text-align: center;
