@@ -254,11 +254,11 @@ td{
 min-width: min-content;
 }
  
-tr, td, table {
+table, tr, td{
         text-align: center;
         border: 1px solid black;
         border-collapse: collapse;
-    padding: 2px 3px;
+    padding: 8px 3px;
 }
 
 
