@@ -252,6 +252,8 @@ text-align: center;
 
 td{
 min-width: min-content;
+border: 1px solid black;
+
 }
  
 table, tr, td{
