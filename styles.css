@@ -264,19 +264,14 @@ table, th, tr, td{
 }
 
 
-.semborda > tr, td {
-        text-align: center;
-       
+.semborda tr, .semborda td {
+        text-align: center;       
         border-collapse: collapse;
+    border: none;
         
 
 }
-.semborda {
-    text-align: center;
-    border: none;
-    border-collapse: collapse;
 
-}
 
 
 th{
