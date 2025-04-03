@@ -279,6 +279,6 @@ th{
         text-align: center;
 }
 
-    tbody> tr:nth-child(2n-1){
+    tbody> tr:nth-child(2n){
     background-color: lightgray;
 }
