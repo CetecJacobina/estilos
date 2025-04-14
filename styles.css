@@ -285,7 +285,8 @@ table, th, tr, td{
 
 
 th{
-        background-color: lightgray;
+        background-color: gray;
+    color: white;
         text-align: center;
 }
 
