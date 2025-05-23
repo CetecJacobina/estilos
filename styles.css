@@ -39,22 +39,6 @@ main h3 {
     /* Arredonda os cantos */
 }
 
-main h4 {
-    margin-left: 5%;
-    font-size: 24px;
-    font-weight: bold;
-    color: black;
-    /*text-shadow: 0.03em 0.03em 0.03em blue;*/
-    display: inline-block;
-
-    max-width: calc(200% + 50px);
-    /* Limita a largura do background */
-
-    text-align: left;
-    border-radius: 10px;
-    /* Arredonda os cantos */
-
-}
 
 
 .min {
