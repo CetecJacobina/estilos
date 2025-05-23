@@ -40,7 +40,7 @@ main h3 {
 }
 
  main h4 {
-    margin-left: 5%!important;
+    margin-left: 5% !important;
     font-size: 24px;
     font-weight: 900 !important;
     color: black;
@@ -147,8 +147,8 @@ main img {
     
     border-radius: 10px;
     box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin: 20px !important;
+    
 }
 
 
