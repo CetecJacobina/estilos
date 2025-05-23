@@ -39,6 +39,16 @@ main h3 {
     /* Arredonda os cantos */
 }
 
+main > h4 {
+    margin-left: 5%;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+
+    text-align: left;
+
+}
+
 
 
 .min {
