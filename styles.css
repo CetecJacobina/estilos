@@ -95,7 +95,7 @@ text-indent: 2%;
 
 .tick li::before{
 
-    content: "✓    " ;
+    content: "✔️    " ;
 }
 
 .bal{
