@@ -40,7 +40,7 @@ main h3 {
 }
 
  main h4 {
-    margin-left: 5%;
+    margin-left: 5%!important;
     font-size: 24px;
     font-weight: 900 !important;
     color: black;
@@ -155,7 +155,7 @@ main img {
 .img-stick {
     max-width: 350px;
     width: 50%;
-    margin: 10px;
+    margin: 10px !important;
     border-radius: 10px;
     transition: 1s;
 
