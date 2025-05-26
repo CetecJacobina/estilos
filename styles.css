@@ -90,7 +90,7 @@ text-indent: 2%;
 
 .tick li::before{
 
-    content: "✔️    " ;
+    content: "✔    " ;
 }
 
 .bal{
@@ -147,7 +147,7 @@ main img {
     border-radius: 10px;
     box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
     margin:  20px !important;
-    margin: auto;
+    margin: auto !important;
 
     
 }
