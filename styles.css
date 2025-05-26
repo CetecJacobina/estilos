@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+#page-content-sem-header > section:nth-child(1) > div:nth-child(2) > div{
+margin:0;
+padding:0;
+}
 
 main {
     max-width: 1000px;
