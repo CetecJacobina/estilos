@@ -161,7 +161,7 @@ main img {
 }
 
 
-.img-stick {
+.img-stick, note-float-left, note-float-right {
     max-width: 350px;
     width: 50%;
     margin: 10px !important;
@@ -170,7 +170,7 @@ main img {
 
 }
 
-.img-stick:hover {
+.img-stick, note-float-left, note-float-right:hover {
     max-width: 450px;
     width: 75%;
     transition: 1s;
