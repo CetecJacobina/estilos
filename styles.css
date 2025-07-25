@@ -206,13 +206,13 @@ main img {
 }
 
 .eq2 {
-        max-height: 60px;
+        max-height: 80px;
         width: auto;
     max-width:100%;
     box-shadow: none;
 }
 .eq3 {
-        max-height: 80px;
+        max-height: 120px;
         width: auto;
         max-width:100%;
     box-shadow: none;
