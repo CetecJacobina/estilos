@@ -9,7 +9,7 @@ padding:0;
 padding:0 !important;
 }
 
-main {
+main#cont {
     max-width: 1000px;
     margin: auto;
     box-shadow: 1px 1px 5px black;
@@ -21,12 +21,12 @@ main {
     backgroundcolor: white;
 }
 
-main blockquote {
+main#cont blockquote {
     margin: 5%;
     text-indent: 8%;
 
 }
-main h3 {
+main#cont h3 {
     text-align: center;
     /* Centralizar o texto dentro */
     padding: 15px;
@@ -47,7 +47,7 @@ main h3 {
     /* Arredonda os cantos */
 }
 
- main h4 {
+ main#cont h4 {
     margin-left: 5% !important;
     font-size: 24px;
     font-weight: 900 !important;
@@ -70,7 +70,7 @@ main h3 {
             color: #ffffff; /* Cor do texto branca */
         }
 
-main p {
+main#cont p {
     text-indent: 25px;
     text-align: justify;
 }
@@ -80,12 +80,12 @@ main p {
 ##################################################
 */
 
-main ul {
+main#cont ul {
     line-height: 1.6;
     margin:0;
 }
 
-main li{
+main#cont li{
 margin-bottom:10px;
 text-indent: 2%;
    
@@ -147,7 +147,7 @@ text-indent: 2%;
 ##################################################
 */
 
-main img {
+main#cont img {
     display: block;
     max-width: 600px;
     width: 95%;
