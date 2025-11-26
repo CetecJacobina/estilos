@@ -1,8 +1,12 @@
 @charset "UTF-8";
 
-#page-content-sem-header > section:nth-child(1){
-    margin:0px;
-    padding:0px;}
+#page-content-sem-header > section:nth-child(1) > div:nth-child(2) > div{ 
+    margin:0 ;
+    padding:0;
+}
+#page-content, #page-content-sem-header > section:nth-child(1){
+    padding:1% !important;
+}
 
 main#cont {
     max-width: 1000px;
