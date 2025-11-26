@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
-
+#page-content-sem-header > section:nth-child(1){
+    margin:0px;
+    padding:0px;}
 
 main#cont {
     max-width: 1000px;
