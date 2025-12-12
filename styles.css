@@ -8,6 +8,8 @@
     padding:1% !important;
 }
 
+
+
 main#cont {
     max-width: 1000px;
     margin: auto;
@@ -296,3 +298,6 @@ th{
     tbody> tr:nth-child(2n){
     background-color: lightgray;
 }
+
+#page-content-sem-header > section:nth-child(1) > div.card.mt-3 > div{
+    display: none;}
