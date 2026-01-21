@@ -199,20 +199,20 @@ main#cont .img-gra {
 
 
 }
-.eq {
+main#cont .eq {
         max-height: 40px;
         width: auto;
     max-width:100%;
     box-shadow: none;
 }
 
-.eq2 {
+main#cont .eq2 {
         max-height: 80px;
         width: auto;
     max-width:100%;
     box-shadow: none;
 }
-.eq3 {
+main#cont .eq3 {
         max-height: 120px;
         width: auto;
         max-width:100%;
