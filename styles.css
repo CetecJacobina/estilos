@@ -162,7 +162,7 @@ main img , main#cont img {
 }
 
 
-.img-stick, .note-float-left, .note-float-right {
+ main#cont .img-stick, .note-float-left, .note-float-right {
     max-width: 350px;
     width: 50%;
     margin: 10px !important;
@@ -171,13 +171,13 @@ main img , main#cont img {
 
 }
 
-.img-stick:hover, .note-float-left:hover, .note-float-right:hover {
+main#cont .img-stick:hover, .note-float-left:hover, .note-float-right:hover {
     max-width: 650px;
     width: 75%;
     transition: 1s;
 }
 
-.img-peq {
+ main#cont .img-peq {
     max-width: 350px;
     width: 50%;
     margin: auto;
@@ -191,7 +191,7 @@ main img , main#cont img {
 
 }
 
-.img-gra {
+main#cont .img-gra {
     max-width: 950px;
     width: 95%;
     margin: auto;
