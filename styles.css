@@ -162,7 +162,7 @@ main img , main#cont img {
 }
 
 
- main#cont .img-stick, .note-float-left, .note-float-right {
+ main#cont .img-stick, main#cont .note-float-left, main#cont .note-float-right {
     max-width: 350px;
     width: 50%;
     margin: 10px !important;
@@ -253,7 +253,7 @@ main#cont .eq3 {
 ##################################################
 */
 
-table{
+main#cont table{
 margin:auto;
 max-width: 90%;
 
