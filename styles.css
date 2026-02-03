@@ -171,13 +171,13 @@ main img , main#cont img {
 
 }
 
-main#cont .img-stick:hover, .note-float-left:hover, .note-float-right:hover {
+main#cont .img-stick:hover, main#cont .note-float-left:hover, main#cont .note-float-right:hover {
     max-width: 650px;
     width: 75%;
     transition: 1s;
 }
 
- main#cont .img-peq {
+ main#cont .img-peq, main#cont .img-p {
     max-width: 350px;
     width: 50%;
     margin: auto;
@@ -191,7 +191,7 @@ main#cont .img-stick:hover, .note-float-left:hover, .note-float-right:hover {
 
 }
 
-main#cont .img-gra {
+main#cont .img-gra, main#cont .img-g {
     max-width: 950px;
     width: 95%;
     margin: auto;
