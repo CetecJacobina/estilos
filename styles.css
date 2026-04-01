@@ -240,7 +240,7 @@ main#cont .eq3 {
     /* Centraliza o vídeo */
 }
 
-.video-container iframe {
+.video-container iframe, .yt iframe {
     position: absolute;
     top: 0;
     left: 0;
