@@ -42,7 +42,7 @@
 }
 
 #cont .hero {
-  padding: clamp(32px, 6vw, 72px) 0 40px;
+  padding: 10px;
 }
 
 #cont .eyebrow {
@@ -193,7 +193,7 @@
 }
 
 #cont .practice {
-  padding-top: 56px;
+  padding: 10px;
 }
 
 #cont .practice-heading {
